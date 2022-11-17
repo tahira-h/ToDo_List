@@ -4,7 +4,7 @@
 
 The purpose of this repository is to create a simple "To Do" application including my technical skills in JavaScript DOM. This project may be viewed by clicking on the "ToDO_List" folder.
 
-Tools/Languages used: JavaScript, HTML, CSS, Bootstrap.
+Tools/Languages used: JavaScript, HTML, Bootstrap.
 
 ## Instructions
 
